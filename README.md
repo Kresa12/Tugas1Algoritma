@@ -5,4 +5,5 @@ Adapun kriteria data SOP yang harus dipenuhi agar bisa membuat surat jalan adala
 2. Jumlah penumpang minimal 20 orang
 3. Tujuan keberangkatan harus sesuai dengan trayek yang ada
 4. Kondisi bus harus dalam keadaan baik
+Jika ada salah satu data ada yang belum terpenuhi maka supir bus di beri waktu untuk melengkapi kriteria yang tersedia
 ![Flowchart](https://github.com/Kresa12/Tugas1Algoritma/assets/145569507/63ebaec2-5833-42db-883e-309a3da02f1b)
